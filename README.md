@@ -4,7 +4,9 @@ Using cameras and OpenCV, you can detect lanes and drive along roads, and you ca
 
 ### [Software required]
 - OpenCV 3.X or higher
-- Keras
+- matplotlib
+- tensorflow
+- keras
 
 ### [you can install the driver of Servo Motor_Steering]
 > sudo pip3 install adafruit-circuitpython-servokit
